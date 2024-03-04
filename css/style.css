@@ -552,3 +552,81 @@ ul {
 /* ===========================================================================
                        Testiomonial Part css
 ==============================================================================*/
+
+/* ===========================================================================
+                       Blog Part css
+==============================================================================*/
+#blogPart {
+  background-color: #e9fbf8;
+  padding: 184px 0px 153px;
+}
+
+.blogPartLeft__top {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: var(--circularStd);
+  color: #7bc0e3;
+}
+
+.blogPartLeft__title {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: var(--circularStd);
+  color: var(--primary_font_color);
+}
+
+.blogPartLeft__summary {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: var(--dmSans);
+  color: var(--details_font_color);
+}
+
+.blogPartLeft__btn {
+  padding: 20px 64px;
+  border-color: #7bc0e3;
+  border-radius: 1000px;
+  -webkit-border-radius: 1000px;
+  -moz-border-radius: 1000px;
+  -ms-border-radius: 1000px;
+  -o-border-radius: 1000px;
+  color: #7bc0e3;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: var(--circularStd);
+  margin-top: 30px;
+}
+
+.blogPart__right {
+  background-color: #ffffff;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  padding: 75px 30px 55px 34px;
+}
+
+.blogPartRight__titile {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: var(--circularStd);
+  color: var(--primary_font_color);
+}
+
+.blogPartRight__Summary {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: var(--dmSans);
+  color: var(--primary_font_color);
+  margin-top: 14px;
+}
+
+.blogPart__right a {
+  color: #7bc0e3;
+}
+
+/* ===========================================================================
+                       Blog Part css
+==============================================================================*/
